@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1507555600 source:f:\programowanie obiektowe\16.10\proj3\main.cpp
+	<iostream>
+	<sstream>
+	<fstream>
+	<vector>
+	<string>
+	<stdexcept>
+
